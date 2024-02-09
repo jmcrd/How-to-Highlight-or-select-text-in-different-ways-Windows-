@@ -18,6 +18,26 @@ Throughout this tutorial, you'll discover pro tips and additional shortcuts to e
 
 By the end of this tutorial, you'll have a comprehensive understanding of essential Windows operations, enabling you to navigate your system like a pro.
 
+# File To Download For Working On this Tutorial and You can also use your own file.
+
+From my GitHub If you want to download the file I am using in this tutorial and save it to your local computer using Google Chrome, you follow these steps:
+
+1. Press Window key + R, type `explorer https://github.com/jmcrd/Essential_Computer_Skills` and hit Enter. It will take you to my github repository. 
+
+2. On the repository page, click on this link. In Windows How to Select Or Highlight Text in Different Ways, and on this page you'll find a green "Code" button. Click on it to reveal a dropdown menu.
+
+3. In the dropdown, click on the "Download ZIP" option.
+
+4. Chrome will download a ZIP file containing the entire repository to your default download location on your computer.
+
+5. Once the download is complete, navigate to the folder where the ZIP file was downloaded.
+
+6. Extract the contents of the ZIP file. You can do this by right-clicking on the ZIP file and selecting "Extract All" or using a third-party file archiver like WinRAR or 7-Zip.
+
+7. open the folder by double clicking on it. you should have the entire file, and for more details on how to do this, check the README file where I've written out the steps in simple terms.
+
+8. open this file. 
+
 Let's dive in and unlock the full potential of your Windows experience!
 
 # How to Highlight Text in Windows
@@ -37,6 +57,7 @@ In Windows, there are several ways to select or highlight text, Here are some co
    - **Right-Click Menu**: To paste Right-click in the destination area to open the context menu.
    - **Choose Paste**: In the context menu, select the "Paste" option. Alternatively, you may see an icon representing pasting (often a clipboard with a document).
    - **Content Pasted**: The content from the clipboard is now pasted into the selected location.
+   
 ### You can also use Keyboard Shortcuts 
 
 ### Using "Ctrl + C" to Copy:
@@ -224,9 +245,5 @@ This action selects all items between the first and last ones you clicked on, in
 This action allows you to select multiple items individually, regardless of their order or proximity to each other. It's handy for selecting non-contiguous items within a list or group.
 
 These methods should cover most scenarios for selecting or highlighting text in Windows. The exact method you use may vary slightly depending on the application you're working with, but these are the general principles.
-   - Holding `Shift`, press `End` to select from cursor to the end of the line.
 
-10. **Ctrl + Mouse Click and Drag:**
-    - In some apps, hold `Ctrl` and use the mouse to make a non-contiguous selection.
-
-Remember, these methods may vary slightly depending on the program you're using. If you're unsure, check the application's instructions for any unique text selection methods.
+<hr>
