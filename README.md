@@ -34,7 +34,7 @@ From my GitHub If you want to download the file I am using in this tutorial and 
 
 6. Extract the contents of the ZIP file. You can do this by right-clicking on the ZIP file and selecting "Extract All" or using a third-party file archiver like WinRAR or 7-Zip.
 
-7. open the folder by double clicking on it. you should have the entire file, and for more details on how to do this, check the README file where I've written out the steps in simple terms.
+7. open the folder by double clicking on it. you should have the entire file, and for more details on how to do this, check the README file or Word File where I've written out the steps in simple terms.
 
 8. open this file. 
 
@@ -57,7 +57,7 @@ In Windows, there are several ways to select or highlight text, Here are some co
    - **Right-Click Menu**: To paste Right-click in the destination area to open the context menu.
    - **Choose Paste**: In the context menu, select the "Paste" option. Alternatively, you may see an icon representing pasting (often a clipboard with a document).
    - **Content Pasted**: The content from the clipboard is now pasted into the selected location.
-   
+
 ### You can also use Keyboard Shortcuts 
 
 ### Using "Ctrl + C" to Copy:
