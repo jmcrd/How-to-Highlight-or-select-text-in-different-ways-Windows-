@@ -1,12 +1,12 @@
 # In Windows How to Select Or Highlight Text in Different Ways
 
-## File To Download For Working On this Tutorial [link to my File](ForSelectionAndShortcuts.txt)
-
 # Introduction
 
 Welcome to the ultimate tutorial for mastering essential computer skills on Windows! 
 
-In this tutorial, we will learn in Windows OS how to select text, files, and folders by using both mouse and keyboard, must know three keyboard shortcut keys, how to move text, files, and folders, and how to rename files and folders. 
+In this tutorial, we will learn in Windows OS how to select text, files, and folders by using both mouse and keyboard, must know three keyboard shortcut keys, how to move text, files, and folders, and how to rename files and folders.
+ 
+# File to Download to work With me
 
 From my GitHub If you want to download the file I am using in this tutorial and save it to your local computer using Google Chrome, you follow these steps and You can also use your own file.
    1. Press the Windows key + R on your keyboard to open the "Run" dialog. In the text field type `explorer https://github.com/jmcrd/Essential_Computer_Skills`  and hit Enter. It will take you to my GitHub repository. 
@@ -48,6 +48,7 @@ In Windows, there are several ways to select or highlight text, Here are some co
 
 - press win + E to Open the file manager on your computer.
 - Navigate to the location of the file you want to move.
+- or you can use my folder where you download from my github. 
 - Once you've found the file you want to move, left-click on it with your mouse. Make sure to click on the file icon itself.
 - With the file selected, hold down the left mouse button.
 - While holding down the left mouse button, move the mouse pointer to drag the file to the desired location. You'll see the file move with your mouse cursor.
@@ -96,22 +97,20 @@ The primary difference between "Ctrl + C" and "Ctrl + X" keyboard shortcuts.
 ### Renaming Files or Folder by Double-Clicking
 
    - Press win + E and navigate to the location of the file or folder you want to rename.
+   - or you can use my folder where you download from my github. 
    - Once you've located the file you want to rename, slowly double-click on its name (not the icon). 
    - After double-clicking the file name, the name should become editable, typically highlighted or with a cursor blinking at the end. Type in the new name you want for the file.
    - Once you've typed the new name, press the "Enter" key on your keyboard, or click away from the file name area. This action confirms the new name and saves the changes.
    - Take a moment to verify that the file has been successfully renamed with the new name you provided. The file should now be listed with its updated name in the file manager.
 
 ### Additional Tips:
-      - Ensure you're not double-clicking too quickly, as some systems might interpret this as trying to open the file rather than renaming it.
+   - Ensure you're not double-clicking too quickly, as some systems might interpret this as trying to open the file rather than renaming it.
 
 ### Pro Tip: Renaming Files or folders with F2 Key Shortcut
  
-   - Press win + E and navigate to the location of the file or folder you want to rename.
-   - Click once on the file you want to rename to select it. Make sure the file name is highlighted.
    - With the file selected, press the "F2" key on your keyboard. This action will typically initiate the file renaming mode, allowing you to edit the file name directly. Sometimes, depending on your keyboard configuration or system settings, the F2 key alone might not trigger the rename function directly. In such cases, you can use the "Fn + F2" key combination. 
-   - Once in renaming mode, you'll notice the file name becomes editable, often with the text highlighted or a cursor blinking at the end. Type in the new name you want for the file.
-   - After typing the new name, press the "Enter" key on your keyboard. This confirms the new name and saves the changes.
-   - Take a moment to verify that the file has been successfully renamed with the new name you provided.
+   - Type in the new name you want for the file.
+   - After typing the new name, press the "Enter" key on your keyboard.
 
 ### Additional Tips:
 - This method can save time when renaming multiple files sequentially, as you can quickly press F2, type the new name, and press Enter for each file.
@@ -155,8 +154,6 @@ This action selects all items between the first and last ones you clicked on. It
 This action allows you to select multiple items individually, regardless of their order or proximity to each other. It's handy for selecting non-contiguous items within a list or group.
 
 These methods should cover most scenarios for selecting or highlighting text in Windows. The exact method you use may vary slightly depending on the application you're working with, but these are the general principles.
-
-<hr>
 
 The best way to be familiar with these shortcuts and understand how they work is practice.
 Practice Makes Perfect. Thank You for Watching This Tutorial. Happy Leaning.  
